@@ -28,7 +28,7 @@ export function Header({
           <div>
             <div className="flex items-center gap-2">
               <h1 className="text-xl font-bold tracking-tight text-white flex items-center gap-2">
-                CertiCraft Studio
+                CertFlow Studio
               </h1>
               <span className="px-2 py-0.5 text-xs font-semibold rounded-full bg-amber-500/10 text-amber-400 border border-amber-500/20">
                 Bulk Generator

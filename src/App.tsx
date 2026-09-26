@@ -220,7 +220,7 @@ export function App() {
       {/* Footer */}
       <footer className="py-6 border-t border-slate-900 text-center text-xs text-slate-500">
         <div className="max-w-7xl mx-auto px-4 flex flex-wrap items-center justify-between gap-2">
-          <span>CertiCraft Studio — 100% Private Client-Side Certificate Generation</span>
+          <span>CertFlow Studio — 100% Private Client-Side Certificate Generation</span>
           <span className="font-mono text-slate-400">Vite + React + Canvas API + JSZip</span>
         </div>
       </footer>
